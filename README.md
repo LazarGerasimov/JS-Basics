@@ -1,2 +1,2 @@
 # JS-Basics
-Some solved problems during my studies on JavaScript Basics Oct 2021
+Some solved problems during my studies on JavaScript Basics Sep 2021
